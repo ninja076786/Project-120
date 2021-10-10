@@ -1,0 +1,13 @@
+body{
+    background-color:steelblue;
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+.waybackhome{
+    color:chocolate;
+    background-color:aliceblue;
+    width:700px;
+    height:600px;
+    font-size:20px;
+    border-radius:39px;
+}
